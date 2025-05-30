@@ -1,6 +1,6 @@
 # Sentiment Analysis on Twitter Data with RNNs
 
-This project performs sentiment analysis on tweets using RNN-based models (GRU and LSTM) trained on the [Sentiment140 dataset](http://help.sentiment140.com/for-students/). The goal is to classify tweets as either positive or negative based on their text content.
+This project performs sentiment analysis on tweets using RNN-based models (GRU and LSTM) trained on the Sentiment140 dataset. The goal is to classify tweets as either positive or negative based on their text content.
 
 ## 📁 Dataset
 
